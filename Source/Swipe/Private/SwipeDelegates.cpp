@@ -4,6 +4,7 @@
 //
 
 #include "SwipePrivatePCH.h"
+#include "SwipeDelegates.h"
 
 USwipeDelegates::FTouchDelegate USwipeDelegates::TouchBeganDelegate;
 USwipeDelegates::FTouchDelegate USwipeDelegates::TouchMovedDelegate;

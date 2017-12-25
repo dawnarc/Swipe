@@ -4,6 +4,8 @@
 //
 
 #include "SwipePrivatePCH.h"
+#include "SwipeSettings.h"
+
 
 USwipeSettings::USwipeSettings(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

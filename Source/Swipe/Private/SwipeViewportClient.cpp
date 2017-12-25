@@ -4,7 +4,11 @@
 //
 
 #include "SwipePrivatePCH.h"
+#include "SwipeViewportClient.h"
 #include "Runtime/Engine/Classes/Engine/UserInterfaceSettings.h"
+#include "TimerManager.h"
+#include "Engine/World.h"
+#include "Engine/Engine.h"
 
 bool USwipeViewportClient::InputTouch(FViewport* InViewport,
 	int32 ControllerId,

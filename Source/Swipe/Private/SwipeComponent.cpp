@@ -4,6 +4,7 @@
 //
 
 #include "SwipePrivatePCH.h"
+#include "SwipeComponent.h"
 
 void USwipeComponent::OnRegister()
 {

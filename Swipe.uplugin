@@ -1,23 +1,25 @@
 {
-	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "Swipe",
-	"Description": "Exposes swipes on mobile devices as events in blueprint.",
-	"Category": "Input",
-	"CreatedBy": "Get Set Games Inc.",
-	"CreatedByURL": "http://getsetgames.com",
-	"DocsURL": "https://github.com/getsetgames/Swipe",
-	"MarketplaceURL": "",
-	"Modules": [
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Swipe",
+	"Description" : "Exposes swipes on mobile devices as events in blueprint.",
+	"Category" : "Input",
+	"CreatedBy" : "Get Set Games Inc.",
+	"CreatedByURL" : "http ://getsetgames.com",
+	"DocsURL" : "https ://github.com/getsetgames/Swipe",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault"  : false,
+	"CanContainContent"  : false,
+	"IsBetaVersion"  : false,
+	"Installed"  : false,
+	"Modules"  :
+	[
 		{
-			"Name": "Swipe",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"Name" : "Swipe",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
 		}
-	],
-	"EnabledByDefault": false,
-	"CanContainContent": false,
-	"IsBetaVersion": false,
-	"Installed": false
+	]
 }

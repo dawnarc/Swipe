@@ -5,6 +5,8 @@
 
 #pragma once
 
+#include "UObject/Object.h"
+#include "Engine/GameViewportClient.h"
 #include "SwipeViewportClient.generated.h"
 
 UENUM(BlueprintType)
